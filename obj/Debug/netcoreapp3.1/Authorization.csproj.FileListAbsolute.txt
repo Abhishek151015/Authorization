@@ -199,3 +199,4 @@ F:\IPTreatmentMFRP\Authorization\obj\Debug\netcoreapp3.1\Authorization.dll
 F:\IPTreatmentMFRP\Authorization\obj\Debug\netcoreapp3.1\Authorization.pdb
 F:\IPTreatmentMFRP\Authorization\obj\Debug\netcoreapp3.1\Authorization.genruntimeconfig.cache
 F:\IPTreatmentMFRP\Authorization\bin\Debug\netcoreapp3.1\authorizationdepl.yaml
+F:\IPTreatmentMFRP\Authorization\obj\Debug\netcoreapp3.1\Authorization.csprojAssemblyReference.cache
